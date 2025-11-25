@@ -14,3 +14,8 @@ Normal text
 System.out.println("Why are you .... ??");
 ```
 
+New line
+a
+
+aadawdaoifan inod
+a w
